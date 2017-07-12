@@ -1,0 +1,10 @@
+{
+  "name": "apikey",
+  "description": "descriptin",
+  "triggers": [],
+  "lookups": [],
+  "actions": [],
+  "version": 1,
+  "auth_type": "custom",
+  "docs_link": "http://docs.example.com"
+}
