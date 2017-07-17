@@ -15,6 +15,7 @@
     "minimal-app"
   ],
   "dependencies": {
+    "flow-cli-sdk": "*",
     "request": "2.55.0"
   },
   "author": "Kailash Yogeshwar",
