@@ -13,7 +13,7 @@ module.exports = {
       }
     } 
   },
-  test : function (input, output){
+  validate : function (input, output){
     var apikey = input.auth.api_key;
     request({
       url: "http://apikey.builtapp.io/api/v1/apps",
