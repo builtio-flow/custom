@@ -1,7 +1,7 @@
 {
   "name": "apikey",
   "version": "1.0.0",
-  "description": "descriptin",
+  "description": "custom auth connection",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
@@ -11,17 +11,17 @@
     "url": "git+https://github.com/kailashyogeshwar85/minimal.git"
   },
   "keywords": [
-    "flow-cli",
+    "wmio-cli",
     "minimal-app"
   ],
   "dependencies": {
-    "flow-cli-sdk": "*",
+    "@webmethodsio/cli-sdk": "*",
     "request": "2.55.0"
   },
   "author": "Kailash Yogeshwar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kailashyogeshwar85/minimal/issues"
+    "url": "https://github.com/builtio-flow/cli-custom-auth/issues"
   },
-  "homepage": "https://github.com/kailashyogeshwar85/minimal#readme"
+  "homepage": "https://github.com/builtio-flow/cli-custom-auth#readme"
 }
