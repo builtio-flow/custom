@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "@webmethodsio/cli-sdk": "*",
-    "request": "2.55.0"
+    "request": "2.88.0"
   },
   "author": "Kailash Yogeshwar",
   "license": "ISC",
